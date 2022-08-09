@@ -15,9 +15,9 @@
 
 ## Exactly what do you do?
 Let's see:
-- I develop videogames as a hobby, mostly in Unity
+- I develop videogames as a hobby, mostly in Unity.
 - I'm in process of becoming a Fullstack Web-Developer. Check my repos!
-- I experiment and learn with new things all the time. Discord bots, artificial intelligence, anything that sounds like fun~
+- I experiment and learn with new things all the time. Discord bots, artificial intelligence, whatever that inspires me to create a new project~
 
 And also more stuff in the side that you can't see here. Like art, Live2D, self-learning languages (Like, japanese), video editing, etc.
 
