@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/juliandbo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=xSAISAISAI&style=flat-square&color=blue" alt=""/>
 </div>
 
